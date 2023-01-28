@@ -1,0 +1,4 @@
+numpy
+pillow
+colorama
+auto-py-to-exe
